@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -42,3 +43,17 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+# React-Search-API
+create react application using REST API render search images.
+
+step 1 :
+  Create unsplash account for API intergration
+  Url : https://unsplash.com/developers
+step 2 :
+  Create application for your react application
+  Url : https://unsplash.com/oauth/applications
+step 3 :
+  Get API key and configure in your application
+  Url : https://unsplash.com/oauth/applications/APP-ID
+>>>>>>> d80c7a7232c82679404a39945b5a030c0a0e55b9
